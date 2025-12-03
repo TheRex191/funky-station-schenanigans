@@ -331,6 +331,7 @@
   - SolarPanels
   # Goobstation - Supermatter
   - Supermatter
+  - HighFructoseReactor #HypertorusFusionReactor
 
 - type: guideEntry
   id: AME
@@ -364,6 +365,11 @@
   id: RTG
   name: guide-entry-rtg
   text: "/ServerInfo/Guidebook/Engineering/RTG.xml"
+
+- type: guideEntry
+  id: HighFructoseReactor
+  name: guide-entry-hfr
+  text: "/ServerInfo/Guidebook/Engineering/HFR.xml"
 
 - type: guideEntry
   id: PortableGenerator
