@@ -80,4 +80,16 @@ SPDX-License-Identifier: MIT
   <Box>
     [color=#999999][italic]Zero-maintenance passive power source[italic][/color]
   </Box>
+
+
+
+  <Box>
+    <GuideEntityEmbed Entity="HighFructoseReactor" Caption="" />
+  </Box>
+  <Box>
+    ## Hypertorus Fusion Reactor
+  </Box>
+  <Box>
+    [color=#999999][italic]Quite the complex little bugger innit. [italic][/color]<!-- placeholder text hihi -->
+  </Box>
 </Document>

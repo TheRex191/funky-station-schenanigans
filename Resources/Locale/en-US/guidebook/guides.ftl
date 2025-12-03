@@ -256,3 +256,4 @@ guide-entry-namingscheme = Naming Scheme
 
 guide-entry-writing = Writing
 guide-entry-glossary = Glossary
+guide-entry-hfr = Hypertorus Fusion Reactor

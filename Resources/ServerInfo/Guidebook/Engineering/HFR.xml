@@ -1,0 +1,23 @@
+<Document>
+  <Box>
+    <GuideEntityEmbed Entity="HFRCorner" Rotation="-180" Caption="" Margin="0" />
+    <GuideEntityEmbed Entity="HFRConsole" Rotation="180" Caption="" Margin="0" />
+    <GuideEntityEmbed Entity="HFRCorner" Rotation="90" Caption="" Margin="0" />
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="HFRFuelInput" Rotation="-90" Caption="" Margin="0" />
+    <GuideEntityEmbed Entity="HFRCore" Rotation="0" Caption="" Margin="0" />
+    <GuideEntityEmbed Entity="HFRModeratorInput" Rotation="90" Caption="" Margin="0" />
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="HFRCorner" Rotation="-90" Caption="" Margin="0" />
+    <GuideEntityEmbed Entity="HFRWasteOutput" Rotation="0" Caption="" Margin="0" />
+    <GuideEntityEmbed Entity="HFRCorner" Rotation="0" Caption="" Margin="0" />
+  </Box>
+  <Box>
+    ## Hypertorus Fusion Reactor
+  </Box>
+  <Box>
+    [color=#999999][italic]Me when donut sun.[italic][/color]
+  </Box>
+</Document>
